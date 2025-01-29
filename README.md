@@ -7,5 +7,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aksamlan&style=flat-square&color=red&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
 </p>
+
+![huso](https://github.com/user-attachments/assets/dae5ffe3-0581-47ec-93f0-ae4275cc9add)
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aksamlan&show_icons=true&theme=gotham" alt="HusoNode" />
-![huso](https://github.com/user-attachments/assets/d76b4552-d8bc-4023-acb3-10c8a69afc6c) 
+
