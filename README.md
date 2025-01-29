@@ -4,7 +4,8 @@
   </a>
 </p>
 <p align="center">
-![huso](https://github.com/user-attachments/assets/20e54471-3b2e-45af-b4ad-48ddae0ab7bb)
+![huso](https://github.com/user-attachments/assets/d76b4552-d8bc-4023-acb3-10c8a69afc6c)
+
   </a>
 </p>
 <p align="center">
