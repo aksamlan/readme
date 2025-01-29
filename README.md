@@ -4,7 +4,8 @@
   </a>
 </p>
 
-(https://github.com/user-attachments/assets/e056c504-9299-461c-917e-4b41e13b5cbe)
+![huso](https://github.com/user-attachments/assets/20e54471-3b2e-45af-b4ad-48ddae0ab7bb)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aksamlan&style=flat-square&color=red&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
