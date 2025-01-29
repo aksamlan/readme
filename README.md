@@ -3,11 +3,9 @@
     <img src="https://img.shields.io/badge/Follow-%40husonode-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
 </p>
-<p align="center">
+
 ![huso](https://github.com/user-attachments/assets/d76b4552-d8bc-4023-acb3-10c8a69afc6c)
 
-  </a>
-</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aksamlan&style=flat-square&color=red&label=Profile+Views+/+Repo+Views+" alt="Repo / Profile Views" />
 </p>
